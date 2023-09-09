@@ -1,4 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://rishavchanda.io)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there%2C;I'm+Nalaka+Sampath+%F0%9F%91%8B;Passionate+IT+Tech+Explore+%F0%9F%98%8A;seeking+new+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Nalaka Sampath</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology and Management degree at University of Moratuwa</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" /> -->
