@@ -13,7 +13,7 @@
 
 - 📞 Call me **+94 78 8916 150**
 
-- 🙍🏼 Portfolio [**Click**](https://sampath-portfolio.netlify.app)
+- 🙍🏼 Portfolio [**Click**](https://portfolio-dc498.web.app/)
 
 - 📄 Know about my experiences [**Download CV**](https://drive.google.com/drive/folders/1es9V4G3Vkp99GHWrSMwMYQCfp2flk73u?usp=sharing)
 
